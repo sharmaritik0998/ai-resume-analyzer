@@ -2,6 +2,8 @@
 
 An AI-powered web app that analyzes resumes against job descriptions and provides match scores, missing skills, and improvement suggestions.
 
+# App Link : https://ai-resume-analyzer-jhgnwhagwgxlex4jrrr7zy.streamlit.app/
+
 ## 🚀 Features
 
 * Resume parsing (PDF)
