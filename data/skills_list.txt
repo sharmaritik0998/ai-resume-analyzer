@@ -1,0 +1,38 @@
+python
+java
+c++
+javascript
+react
+node
+html
+css
+machine learning
+deep learning
+nlp
+sql
+mongodb
+data analysis
+excel
+power bi
+tableau
+aws
+azure
+docker
+git
+linux
+
+communication
+leadership
+teamwork
+problem solving
+
+marketing
+sales
+seo
+content writing
+
+finance
+accounting
+
+human resources
+recruitment
